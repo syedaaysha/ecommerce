@@ -1,0 +1,300 @@
+/*font-family: 'Montserrat', sans-serif;*/
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*common_things_start    */
+.common_headline h1{
+    font-size: 55px;
+    letter-spacing: -5px;
+}
+.common_headline h4{
+    font-size: 22px;
+    letter-spacing: 35px;
+    padding-left: 40px;
+}
+.common_headline h3{
+    font-size: 28px;
+    line-height: 0.8;
+    margin-bottom: 0px;
+    letter-spacing: -2px;
+}
+.common_headline p{
+    font-size: 14px;
+    padding: 8px 0px;
+}
+.common_button{
+    font-size: 16px;
+}
+.common_title h1{
+    font-size: 26px;
+    font-weight: 900;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+.common_title p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+}
+/*header_top_start*/
+.header_top {
+    margin-top: 5px;
+}
+.header_top p {
+    font-size: 16px;
+    padding-right: 20px;
+    line-height: 1.2;
+    margin-bottom: 4px;
+}
+.header_top button {
+    padding: 1px 4px;
+    font-size: 17px;
+    margin-top: -35px;
+}
+/*navbar_and_banner_start*/
+.custom_menu ul li a{
+    text-align: right;
+    padding-right: 0px;
+}
+.custom_menu {
+    margin: 18px 0px;
+}
+.email_address ul li{
+    font-size: 12px;
+    padding-right: 0px;
+}
+/*product_start*/
+.service_body {
+    margin-top: -40px;
+}
+.single_service_img{
+    width: 85px;
+    height: 85px;
+}
+.single_service_img img {
+    padding: 20px 0px;
+}
+.single_service h3{
+    font-size: 20px;
+}
+.single_service p{
+    font-size: 14px;
+}
+.product_ads1{
+    margin-bottom: 12px;
+}
+.product_ads_content {
+    padding: 0px 12px;
+}
+/*news_start*/
+.single_news {
+    margin-bottom: 12px;
+}
+/*brand_logos_start*/
+.brand_logos_img {
+    margin-bottom: 15px;
+}
+/*footer_start*/
+.footer_content {
+    margin-bottom: 35px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*common_things_start    */
+.common_headline h1{
+    font-size: 55px;
+    letter-spacing: -5px;
+}
+.common_headline h4{
+    font-size: 22px;
+    letter-spacing: 35px;
+    padding-left: 40px;
+}
+.common_headline h3{
+    font-size: 28px;
+    line-height: 0.8;
+    margin-bottom: 0px;
+    letter-spacing: -2px;
+}
+.common_headline p{
+    font-size: 14px;
+    padding: 8px 0px;
+}
+.common_button{
+    font-size: 16px;
+}
+/*header_top_start*/
+.header_top {
+    margin-top: 5px;
+}
+.header_top p {
+    font-size: 16px;
+    padding-right: 20px;
+    line-height: 1.2;
+    margin-bottom: 4px;
+}
+.header_top button {
+    padding: 1px 4px;
+    font-size: 17px;
+    margin-top: 2px;
+}
+/*navbar_and_banner_start*/
+.custom_menu ul li a{
+    text-align: right;
+    padding-right: 0px;
+}
+.custom_menu {
+    margin: 18px 0px;
+}
+/*product_start*/
+.service_body {
+    margin-top: -40px;
+}
+.single_service_img{
+    width: 85px;
+    height: 85px;
+}
+.single_service_img img {
+    padding: 20px 0px;
+}
+.single_service h3{
+    font-size: 20px;
+}
+.single_service p{
+    font-size: 14px;
+}
+.product_ads1{
+    margin-bottom: 12px;
+}
+.product_ads_content {
+    padding: 0px 12px;
+}
+/*news_start*/
+.single_news {
+    margin-bottom: 12px;
+}
+/*brand_logos_start*/
+.brand_logos_img {
+    margin-bottom: 15px;
+}
+/*footer_start*/
+.footer_content {
+    margin-bottom: 35px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*common_things_start    */
+.common_headline h1{
+    font-size: 90px;
+}
+.common_headline h4{
+    font-size: 35px;
+    letter-spacing: 55px;
+}
+.common_headline h3{
+    font-size: 35px;
+    line-height: 0.8;
+    margin-bottom: 0px;
+    letter-spacing: -3px;
+}
+.common_headline p{
+    font-size: 14px;
+    padding: 8px 0px;
+}
+.common_button{
+    font-size: 16px;
+}
+/*header_top_start*/
+.header_top {
+    margin-top: 5px;
+}
+.header_top p {
+    font-size: 16px;
+}
+.header_top button {
+    padding: 1px 4px;
+    font-size: 17px;
+    margin-top: 2px;
+}
+/*navbar_and_banner_start*/
+.custom_menu ul li a{
+    text-align: right;
+    padding-right: 0px;
+}
+.custom_menu {
+    margin: 18px 0px;
+}
+/*product_start*/
+.service_body {
+    margin-top: -40px;
+}
+.single_service_img{
+    width: 85px;
+    height: 85px;
+}
+.single_service_img img {
+    padding: 20px 0px;
+}
+.single_service h3{
+    font-size: 20px;
+}
+.single_service p{
+    font-size: 14px;
+}
+.product_ads_content {
+    padding: 0px 18px;
+}
+/*Carousal_start*/
+.carousel .thumb-content {
+     padding: 15px 0px; 
+}
+.carousel .item h4 {
+    font-size: 14px;
+}
+.carousel .item h5{
+   font-size: 12px; 
+}
+.carousel .item-price{
+    font-size: 12px;
+    padding: 0px;
+}
+/*news_start*/
+.single_news .card-body h5{
+    font-size: 16px;
+}
+.single_news .card-body h6{
+    font-size: 12px;
+}
+.single_news .card-body p{
+    font-size: 12px;
+}
+.footer_content .ml_0{
+    float: left !important;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1024px) { 
+/*common_things_start    */
+.common_headline h1{
+    font-size: 112px;
+}    
+/*header_top_start*/
+.header_top button{
+    margin-top: 3px;
+}
+}
+
+@media (min-width: 1441px) and (max-width: 2560px) { 
+
+
+}
